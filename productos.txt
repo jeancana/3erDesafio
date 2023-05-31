@@ -1,0 +1,92 @@
+[
+	{
+		"id": 1,
+		"title": "Manzana Roja",
+		"description": "es una fruta",
+		"price": 130,
+		"thumbnail": "url:web - colocarla aca",
+		"code": "001",
+		"stock": "5000"
+	},
+	{
+		"id": 2,
+		"title": "Manzana Verde",
+		"description": "es una fruta",
+		"price": 130,
+		"thumbnail": "url:web - colocarla aca",
+		"code": "001",
+		"stock": "5000"
+	},
+	{
+		"id": 3,
+		"title": "Pera",
+		"description": "es una fruta",
+		"price": 180,
+		"thumbnail": "url:web - colocarla aca",
+		"code": "002",
+		"stock": "3000"
+	},
+	{
+		"id": 4,
+		"title": "Arandano",
+		"description": "es una fruta",
+		"price": 20,
+		"thumbnail": "url:web - colocarla aca",
+		"code": "003",
+		"stock": "7000"
+	},
+	{
+		"id": 5,
+		"title": "Piña",
+		"description": "es una fruta",
+		"price": 300,
+		"thumbnail": "url:web - colocarla aca",
+		"code": "004",
+		"stock": "1000"
+	},
+	{
+		"id": 6,
+		"title": "Fresa",
+		"description": "es una fruta",
+		"price": 300,
+		"thumbnail": "url:web - colocarla aca",
+		"code": "004",
+		"stock": "1000"
+	},
+	{
+		"id": 7,
+		"title": "Papaya",
+		"description": "es una fruta",
+		"price": 300,
+		"thumbnail": "url:web - colocarla aca",
+		"code": "004",
+		"stock": "1000"
+	},
+	{
+		"id": 8,
+		"title": "Melon",
+		"description": "es una fruta",
+		"price": 300,
+		"thumbnail": "url:web - colocarla aca",
+		"code": "004",
+		"stock": "1000"
+	},
+	{
+		"id": 9,
+		"title": "Uva",
+		"description": "es una fruta",
+		"price": 300,
+		"thumbnail": "url:web - colocarla aca",
+		"code": "004",
+		"stock": "1000"
+	},
+	{
+		"id": 10,
+		"title": "Naranja",
+		"description": "es una fruta",
+		"price": 300,
+		"thumbnail": "url:web - colocarla aca",
+		"code": "004",
+		"stock": "1000"
+	}
+]
